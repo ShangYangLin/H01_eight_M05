@@ -9,6 +9,6 @@ Objective: Built AI model by using HRV indexes derived from EKG signal of CPAP t
 
 Methods: The good compliance patient was fulfill the criteria for “regular use” (defined as 4 hours use on 70% of days) for at least one year, while the poors was defined as refusing any treatment for at least 4 months after CPAP titration (both group were suffer by severe OSA). We derived the HRV indexes (RMSSD, SDNN, PNN50, HF, LF, VLF, LF/HF Ratio, VLF/Total Power) every five minutes. 
 
-Results: The missing values of HRV data was imputed and then the whole dataset was standardized. A neural networks (deep learning) model shows 75% in accuracy after hyperparameter optimization. We humblely upload our model and looking forward all type of cooperation and feedback.
+Results: The missing values of HRV data was imputed and then the whole dataset was standardized. A neural networks (deep learning) model shows 75% in accuracy after hyperparameter optimization. We humblely upload the framework of our model and weight of neurons, and looking forward all type of cooperation and feedback.
 
 Keywords: Obstructive sleep apnea (OSA), Continuous Positive Airway Pressure (CPAP), Heart rate variability (HRV), Deep learning (DL),  Treatment compliance
